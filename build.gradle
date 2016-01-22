@@ -3,7 +3,7 @@ apply plugin: 'maven-publish'
 
 buildscript {
   repositories {
-    url "https://jcenter.bintray.com"
+      https://jcenter.bintray.com
   }
   dependencies {
     classpath 'com.github.jengelman.gradle.plugins:shadow:1.2.2'
