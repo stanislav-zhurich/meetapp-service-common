@@ -15,7 +15,6 @@ apply plugin: 'com.github.johnrengelman.shadow'
 
 version = currentVersion
 group = 'com.stan.meetapp.services'
-//artifactoryPublish.skip = true
 
 repositories {
   mavenCentral()
